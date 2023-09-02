@@ -15,7 +15,6 @@ Sou um apaixonado por tecnologia. Sempre em busca de novos conhecimentos e desaf
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="REACT" src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next" />
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielArrivabene&layout=donut)](https://github.com/DanielArrivabene/)
