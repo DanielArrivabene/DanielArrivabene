@@ -1,9 +1,8 @@
 ## Olá! Eu sou Daniel Arrivabene 🖐🏼
 
 [![Portfolio](https://img.shields.io/website?label=MeuPortfolio&style=for-the-badge&url=https://daniel-goulart-arrivabene.vercel.app)](https://daniel-goulart-arrivabene.vercel.app)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-2EC866?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/message/TJ3CF6UF7NUOI1)
 
-Sou um apaixonado por tecnologia. Sempre em busca de novos conhecimentos e desafios para solucionar, com eficiência e trabalho em equipe!
+Atuo como Desenvolvedor Frontend no mercado desde 2021, produzindo websites responsivos de alto SEO e solucionando desafios a cada projeto. Sinta-se à vontade para entrar em contato comigo caso tenha alguma dúvida ou projeto em mente!
 
 ### Tecnologias que eu uso no meu dia a dia:
 
