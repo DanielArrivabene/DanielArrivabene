@@ -1,1 +1,1 @@
-## Olá! Eu sou Daniel Arrivabene 🖐
+## Olá! Eu sou Daniel Arrivabene.
